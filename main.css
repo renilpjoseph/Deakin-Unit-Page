@@ -12,10 +12,13 @@ h3 {
 p {
   font-size: 14px;
   font-family: Arial;
+<<<<<<< HEAD
 }
 div {
     background-color: blue;
     text-align: right;
+=======
+>>>>>>> 1eb1c00e237e2c4d427ff698e7c497f7bbd53144
 }
 
 /* --- Added for Front-end Task --- */
